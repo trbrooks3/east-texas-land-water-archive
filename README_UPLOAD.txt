@@ -1,10 +1,5 @@
-DOCUMENT 02 — GITHUB UPDATE
+NAVIGATION UPDATE
 
-Upload these three files to the repository ROOT (alongside index.htm):
-- hollis_1856.htm (new)
-- hollis_1856.txt (new)
-- cypress_land_index.htm (updated; replaces previous version)
-
-No changes to archive.css, tolliver.htm, the homepage, or Bell records.
-Commit suggestion: Add Hollis 1856 field book and update land records index
-If the live index appears unchanged, force refresh (Cmd+Shift+R on Mac).
+Upload all .htm files from this folder to the ROOT of the existing GitHub repository (alongside index.htm), then commit changes.
+Existing .htm pages are updated to use site-wide navigation; collections.htm and record_index.htm are new. No CSS or document transcription text has been changed.
+After deployment, force-refresh your browser if old links persist.
