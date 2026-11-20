@@ -1,0 +1,124 @@
+# East Texas Land & Water Archive
+
+## Tolliver County Assessment Rolls, 1872–1881
+
+**Approved for publication.** Fictional archival extracts. Reference: ETLWA-TC-1872-1881-03A.
+
+**Editorial convention:** H/M, C, S, and H denote animal counts; each associated $ column denotes the assessed value of that class. Other = additional assessed personal property, not individually identified in the condensed extract. Blank acreage is represented by —. Brackets denote editorial uncertainty. The 1875 Grimes and 1880 Bell entries cannot be reconciled because source fields are intentionally unreadable. The uncertain 1881 Bell land fields are provisionally valued at $40 for the arithmetic shown.
+
+### 1872
+
+| Taxpayer | Survey | Acres | Land $ | H/M no. | H/M $ | C no. | C $ | S no. | S $ | H no. | H $ | Other $ | Total $ |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Washington, Isaiah | — | — | — | 1 | 40 | 2 | 16 | — | — | 3 | 9 | — | 65 |
+| Lott, Samuel | — | — | — | — | — | 3 | 27 | — | — | 4 | 8 | — | 35 |
+| Carter, William | — | — | — | 1 | 40 | 1 | 9 | — | — | 2 | 6 | — | 55 |
+
+### 1873
+
+| Taxpayer | Survey | Acres | Land $ | H/M no. | H/M $ | C no. | C $ | S no. | S $ | H no. | H $ | Other $ | Total $ |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Washington, Isaiah | — | — | — | 1 | 40 | 2 | 18 | — | — | 4 | 12 | — | 70 |
+| Freeman, Elijah | — | — | — | 1 | 45 | 1 | 9 | — | — | 2 | 6 | — | 60 |
+| Lott, Samuel | — | — | — | — | — | 3 | 30 | — | — | 5 | 10 | — | 40 |
+| Carter, William | — | — | — | 1 | 40 | 2 | 16 | — | — | 3 | 9 | — | 65 |
+
+### 1874
+
+| Taxpayer | Survey | Acres | Land $ | H/M no. | H/M $ | C no. | C $ | S no. | S $ | H no. | H $ | Other $ | Total $ |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Washington, Isaiah | — | — | — | 1 | 40 | 3 | 24 | — | — | 4 | 16 | — | 80 |
+| Whitfield, Joseph | — | — | — | — | — | 2 | 18 | — | — | 3 | 12 | — | 30 |
+| Freeman, Elijah | — | — | — | 1 | 45 | 2 | 16 | — | — | 3 | 9 | — | 70 |
+| Carter, William | — | — | — | 1 | 45 | 2 | 16 | — | — | 4 | 4 | — | 65 |
+| Grimes, Nathan | — | — | — | — | — | 2 | 12 | 2 | 4 | 2 | 4 | 15 | 35 |
+
+### 1875
+
+| Taxpayer | Survey | Acres | Land $ | H/M no. | H/M $ | C no. | C $ | S no. | S $ | H no. | H $ | Other $ | Total $ |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Washington, Isaiah | — | — | — | 1 | 40 | 3 | 30 | — | — | 5 | 15 | — | 85 |
+| Lott, Samuel | — | — | — | 1 | 45 | 4 | 32 | — | — | 6 | 18 | — | 95 |
+| Bell, Henry | — | — | — | 1 | 40 | — | — | — | — | 2 | 4 | 11 | 55 |
+| Whitfield, Joseph | — | — | — | — | — | 3 | 24 | — | — | 4 | 16 | — | 40 |
+| Grimes, Nathan | — | — | — | — |  | 2 |  | ? |  | ? |  |  | ? |
+
+### 1876
+
+| Taxpayer | Survey | Acres | Land $ | H/M no. | H/M $ | C no. | C $ | S no. | S $ | H no. | H $ | Other $ | Total $ |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Washington, Isaiah | Hargrove | 40 | 100 | 1 | 40 | 3 | 30 | — | — | 5 | 15 | — | 185 |
+| Lott, Samuel | Hargrove | 30 | 75 | 1 | 45 | 4 | 32 | — | — | 6 | 18 | — | 170 |
+| Freeman, Elijah | — | — | — | 1 | 45 | 2 | 18 | — | — | 4 | 12 | — | 75 |
+| Bell, Henry | — | — | — | 1 | 45 | 1 | 8 | — | — | 3 | 12 | — | 65 |
+| Carter, William | — | — | — | 1 | 40 | 3 | 30 | — | — | 5 | 15 | — | 85 |
+| Hayes, Andrew | — | — | — | — | — | 2 | 16 | — | — | 2 | 4 | 10 | 30 |
+
+### 1877
+
+| Taxpayer | Survey | Acres | Land $ | H/M no. | H/M $ | C no. | C $ | S no. | S $ | H no. | H $ | Other $ | Total $ |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Washington, Isaiah | Hargrove | 40 | 100 | 1 | 45 | 4 | 32 | — | — | 6 | 18 | — | 195 |
+| Lott, Samuel | Hargrove | 30 | 75 | 1 | 40 | 4 | 40 | — | — | 5 | 10 | — | 165 |
+| Freeman, Elijah | — | — | — | 1 | 45 | 3 | 24 | — | — | 4 | 16 | — | 85 |
+| Coleman, Thomas | — | — | — | — | — | 2 | 18 | — | — | 3 | 12 | — | 30 |
+| Whitfield, Joseph | — | — | — | 1 | 40 | 3 | 30 | — | — | 5 | 10 | — | 80 |
+| Hayes, Andrew | — | — | — | — | — | 2 | 16 | — | — | 3 | 9 | 10 | 35 |
+| Turner, James | — | — | — | 1 | 40 | 1 | 9 | — | — | 2 | 6 | — | 55 |
+
+### 1878
+
+| Taxpayer | Survey | Acres | Land $ | H/M no. | H/M $ | C no. | C $ | S no. | S $ | H no. | H $ | Other $ | Total $ |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Washington, Isaiah | Hargrove | 40 | 100 | 1 | 45 | 4 | 32 | — | — | 6 | 18 | — | 195 |
+| Lott, Samuel | Hargrove | 30 | 75 | 1 | 40 | 5 | 40 | — | — | 7 | 14 | 16 | 185 |
+| Bell, Henry | — | — | — | 1 | 45 | 2 | 18 | — | — | 4 | 12 | — | 75 |
+| Coleman, Thomas | — | — | — | — | — | 3 | 24 | — | — | 4 | 16 | — | 40 |
+| Parker, Benjamin | — | — | — | 1 | 40 | 1 | 9 | — | — | 2 | 6 | — | 55 |
+| Grimes, Nathan | — | — | — | — | — | 3 | 27 | 2 | 6 | 3 | 12 | — | 45 |
+| Turner, James | — | — | — | 1 | 40 | 2 | 16 | — | — | 3 | 9 | — | 65 |
+
+### 1879
+
+| Taxpayer | Survey | Acres | Land $ | H/M no. | H/M $ | C no. | C $ | S no. | S $ | H no. | H $ | Other $ | Total $ |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Washington, Isaiah | Hargrove | 40 | 100 | 1 | 40 | 4 | 32 | — | — | 7 | 28 | — | 200 |
+| Lott, Samuel | Hargrove | 30 | 75 | 1 | 40 | 5 | 40 | — | — | 8 | 16 | 19 | 190 |
+| Freeman, Elijah | Hargrove | 20 | 50 | 1 | 40 | 3 | 30 | — | — | 5 | 15 | — | 135 |
+| Whitfield, Joseph | — | — | — | 1 | 40 | 3 | 30 | — | — | 5 | 15 | — | 85 |
+| Parker, Benjamin | — | — | — | 1 | 40 | 2 | 16 | — | — | 3 | 9 | — | 65 |
+| Carter, William | — | — | — | 1 | 40 | 4 | 36 | — | — | 6 | 24 | — | 100 |
+| Hayes, Andrew | — | — | — | — | — | 3 | 33 | — | — | 4 | 12 | — | 45 |
+
+### 1880
+
+| Taxpayer | Survey | Acres | Land $ | H/M no. | H/M $ | C no. | C $ | S no. | S $ | H no. | H $ | Other $ | Total $ |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Washington, Isaiah | Hargrove | 40 | 100 | 1 | 40 | 4 | 32 | — | — | 7 | 28 | — | 200 |
+| Lott, Samuel | Hargrove | 30 | 75 | 1 | 40 | 5 | 40 | — | — | 8 | 16 | 19 | 190 |
+| Freeman, Elijah | Hargrove | 20 | 50 | 1 | 40 | 3 | 30 | — | — | 5 | 15 | — | 135 |
+| Bell, Henry | [page damaged] | ? | ? | 1 |  | 2 |  | — |  | 4 |  |  | ? |
+| Coleman, Thomas | — | — | — | 1 | 40 | 3 | 30 | — | — | 5 | 15 | — | 85 |
+| Parker, Benjamin | — | — | — | 1 | 40 | 2 | 18 | — | — | 4 | 12 | — | 70 |
+| Grimes, Nathan | — | — | — | — | — | 3 | 30 | 2 | 4 | 4 | 16 | — | 50 |
+| Turner, James | — | — | — | 1 | 40 | 3 | 24 | — | — | 4 | 16 | — | 80 |
+
+### 1881
+
+| Taxpayer | Survey | Acres | Land $ | H/M no. | H/M $ | C no. | C $ | S no. | S $ | H no. | H $ | Other $ | Total $ |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Washington, Isaiah | Hargrove | 40 | 100 | 1 | 40 | 4 | 32 | — | — | 7 | 28 | — | 200 |
+| Lott, Samuel | Hargrove | 30 | 75 | 1 | 40 | 5 | 40 | — | — | 8 | 16 | 19 | 190 |
+| Freeman, Elijah | Hargrove | 20 | 50 | 1 | 45 | 3 | 27 | — | — | 6 | 18 | — | 140 |
+| Bell, Henry | Hargrove | 15? | 40? | 1 | 40 | 2 | 20 | — | — | 5 | 20 | — | 120 |
+| Whitfield, Joseph | — | — | — | 1 | 45 | 4 | 32 | — | — | 6 | 18 | — | 95 |
+| Coleman, Thomas | — | — | — | 1 | 40 | 3 | 30 | — | — | 5 | 15 | — | 85 |
+| Parker, Benjamin | — | — | — | 1 | 40 | 3 | 24 | — | — | 4 | 16 | — | 80 |
+| Carter, William | — | — | — | 1 | 40 | 4 | 36 | — | — | 6 | 24 | — | 100 |
+| Grimes, Nathan | — | — | — | — | — | 3 | 30 | 2 | 4 | 4 | 16 | — | 50 |
+| Hayes, Andrew | — | — | — | 1 | 40 | 3 | 30 | — | — | 5 | 10 | — | 80 |
+| Turner, James | — | — | — | 1 | 40 | 3 | 30 | — | — | 5 | 15 | — | 85 |
+
+### Archival note
+
+These fictional selected assessments document the gradual appearance of eleven households, without asserting when each arrived. The name New Providence does not appear in these extracts. The original grantee designation Hargrove identifies a land survey, not necessarily a seller or surveyor. An absent taxpayer is not evidence of departure. These working tables include inferred itemized valuations for arithmetic verification and should be reviewed for period-appropriate presentation before publication.
