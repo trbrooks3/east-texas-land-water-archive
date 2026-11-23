@@ -1,8 +1,7 @@
-ETLWA-NAC-1847-01 VISUAL PATCH
+ETLWA-TC-1885-1887-03C — New Providence Baptist Church Conference Minutes
 
-Replace only lott_1847.htm in the repository root.
-No changes to archive.css, navigation files, or lott_1847.txt.
-The patent transcription and existing links are preserved.
-Metadata is reordered and normalized to the agreed archive-wide schema.
-Visual styles are scoped to this page via embedded CSS.
-Check against the live version before overwriting if it has changed since the archived source.
+Replace only new_providence_1885_1887.htm in the site root.
+Original minute entries and existing navigation links are unchanged.
+Standardized metadata and page-specific visual styling have been added.
+The plain-text transcription and shared archive.css are not changed.
+Check the current live page for subsequent edits before overwriting.
