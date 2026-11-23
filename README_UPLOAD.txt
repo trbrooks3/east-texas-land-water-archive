@@ -1,9 +1,32 @@
-VERSION 4 — FULL ARCHIVE FRAMEWORK
+EAST TEXAS LAND & WATER ARCHIVE — INCREMENTAL PATCH
+Document 04: Journal of Edmund Lott, Jr. (September 3–October 21, 1888)
 
-Upload all files from this ZIP to the ROOT of your existing GitHub Pages repository, replacing existing files with the same names. Commit and hard-refresh.
+STATUS: PREPARED FOR REVIEW/UPLOAD. NOT PUBLISHED TO GITHUB.
 
-This package includes the full working website, the existing three document HTML and text files, new directory pages for 33 real Texas counties, Tolliver category indexes, collection pages, and an About page disclosing the fictional nature of the project.
+This archive contains only new and changed files. Upload into the existing site root;
+do not delete any existing site files. The navigation files are based on the local
+v5 site package, not a fresh live GitHub checkout. Review any intervening changes
+before overwriting those navigation files.
 
-The private 38-document inventory is distributed in a SEPARATE ZIP. DO NOT UPLOAD the private ZIP or its contents to GitHub.
+NEW:
+  lott_journal_1888.htm / .txt — 49 consecutive dated entries, approved review draft
+  other_county_files.htm — index for three genuine historical reference journals
+  joe_summers_diary.htm — Cherokee County, Alto, 1880–1912
+  herrington_farm_ledger.htm — Collin County, 1882–1894
+  aaron_texas_field_notebook.htm — Texas-wide field journal, 1884
 
-Real-county pages are placeholders; they contain no fabricated archival holdings. The selected East Texas county list is not intended as a definitive regional boundary.
+UPDATED NAVIGATION (verify against your live versions before replacing):
+  record_index.htm, county_cherokee.htm, county_index.htm, collections.htm, tolliver.htm
+
+Reference records contain bibliographic descriptions and outbound repository links;
+no historical journal has been represented as an archive-owned transcription.
+Collin County is not in the site's existing county index; the Herrington reference
+is therefore listed in Other County Files. Aaron's precise county route is not
+asserted without reviewing the complete original notebook.
+
+IMPORTANT: The source v5 website files date from Nov. 20. Other newer site
+changes (e.g. church minutes or tax rolls) are NOT bundled and must be retained.
+Do not replace your entire live site with this patch.
+
+Potential editorial check: October 16 diary states Bellamy assists with nighttime
+retrieval; this does not conflict with his October 13 lodging testimony.
