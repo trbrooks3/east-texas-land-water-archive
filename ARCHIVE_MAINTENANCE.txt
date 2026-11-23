@@ -1,0 +1,35 @@
+ETLWA ARCHIVAL DESIGN STANDARD v1.0
+===================================
+Canonical source: repository main branch. Do not overwrite newer site files with old ZIP snapshots.
+
+Presentation
+- Warm parchment/paper, restrained forest-green accents, traditional serif typography.
+- Early-2000s archival website feel; avoid slick modern redesign.
+- Use archive.css as the shared stylesheet. For approved page-specific presentation, use a named .css file, not an inline <style> block.
+- Preserve navigation, record tags, notes, and footer; verify mobile and print layouts.
+
+Required metadata in exact order
+1. Repository
+2. Collection
+3. Reference
+4. Document dates
+5. Jurisdiction
+6. Document type
+Optional fields (Creator, Extent, Provenance, Format, etc.) follow these six.
+
+Historical and editorial integrity
+- Distinguish genuine external source references from fictional reconstructions and transcriptions.
+- Preserve approved document wording and intentional uncertainty.
+- Never assert undocumented provenance or claim missing source scans are available.
+- Maintain accessible project disclosure via scope.htm -> technical_notes.htm.
+
+Publication checklist
+[ ] Draft and review content; verify dates, references, provenance and metadata order.
+[ ] Confirm all local href/src targets exist in the repository and external links point to the intended institutions.
+[ ] Check page styling, mobile display, and print behavior.
+[ ] Update record_index.htm and appropriate collection/county index only as needed.
+[ ] Obtain explicit user approval before publishing changes.
+
+Deployment note (2026-11-22)
+Earlier README_UPLOAD, README_V5_UPLOAD, README_DEPLOYMENT, README_PUBLICATION, README_REVIEW_FIRST, and PATCH_README files are historical package instructions, not current deployment directions. Do not reapply those ZIP packages wholesale. Use this standard and current GitHub files as the baseline.
+Historical-source local image/PDF links were removed where their files were not present in the repository; original holding-institution links were retained.
