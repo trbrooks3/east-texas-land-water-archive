@@ -1,0 +1,35 @@
+/* ETLWA page-specific presentation; extracted without rule changes from lott_1847.htm */
+
+/* ETLWA document-specific visual refresh; no shared stylesheet changes */
+:root {color-scheme:light}
+body {background:#e9e5d9;color:#292d25;font-family:Georgia,'Times New Roman',serif;line-height:1.6}
+.page {max-width:900px;margin:30px auto;padding:30px 42px 45px;background:#fbf9f2;
+ border:1px solid #c8c5b6;box-shadow:0 4px 22px rgba(35,42,30,.09)}
+.mast {font-family:Georgia,serif;font-variant:small-caps;letter-spacing:.07em;
+ color:#284d39;font-size:1.7rem;font-weight:bold}
+.sub {color:#676b5e;font-style:italic}
+.nav {padding:10px 0;border-top:1px solid #d9d7c9;border-bottom:1px solid #d9d7c9;
+ font-family:Arial,sans-serif;font-size:.83rem;line-height:1.9}
+a {color:#285d47;text-underline-offset:3px}
+a:hover {color:#713d29}
+h1 {font-size:2rem;line-height:1.2;color:#273c30;margin:26px 0 8px}
+.tag {font-family:Arial,sans-serif;font-size:.76rem;letter-spacing:.1em;color:#5b695d}
+h2 {color:#304c3b;border-bottom:1px solid #bfc8b9;padding-bottom:7px;margin-top:30px}
+hr {border:0;border-top:1px solid #d5d3c7;margin:18px 0}
+table.meta {border-collapse:collapse;width:100%;margin:18px 0 24px;font-size:.94rem}
+.meta th,.meta td {border-bottom:1px solid #d9dcd2;padding:10px 13px;vertical-align:top}
+.meta th {width:32%;text-align:left;background:#eef1e9;color:#354b3b;
+ font-family:Arial,sans-serif;font-size:.8rem;font-weight:600}
+.meta tr:nth-child(even) td {background:#f7f7f1}
+.filelist {padding-left:24px}
+.filelist li {padding:3px 0}
+.transcript {background:#fffef9;border:1px solid #d8d4c6;padding:24px 30px;
+ line-height:1.8;font-size:1.02rem}
+.transcript p {margin:0 0 1.05em}
+.small,.footer {font-family:Arial,sans-serif;font-size:.78rem;color:#687064}
+.footer {border-top:1px solid #d5d3c7;padding-top:16px;margin-top:28px}
+@media(max-width:650px){.page{margin:0;padding:18px 17px;box-shadow:none}
+h1{font-size:1.6rem}.meta th,.meta td{padding:8px 7px}
+.meta th{width:35%}.transcript{padding:16px}}
+@media print {body{background:white}.page{border:0;box-shadow:none;margin:0;padding:0}
+.nav{display:none}.transcript{border:0;padding:0}a{color:inherit}}
