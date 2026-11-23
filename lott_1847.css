@@ -8,8 +8,6 @@ body {background:#e9e5d9;color:#292d25;font-family:Georgia,'Times New Roman',ser
 .mast {font-family:Georgia,serif;font-variant:small-caps;letter-spacing:.07em;
  color:#284d39;font-size:1.7rem;font-weight:bold}
 .sub {color:#676b5e;font-style:italic}
-.nav {padding:10px 0;border-top:1px solid #d9d7c9;border-bottom:1px solid #d9d7c9;
- font-family:Arial,sans-serif;font-size:.83rem;line-height:1.9}
 a {color:#285d47;text-underline-offset:3px}
 a:hover {color:#713d29}
 h1 {font-size:2rem;line-height:1.2;color:#273c30;margin:26px 0 8px}
