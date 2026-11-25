@@ -18,10 +18,10 @@ Required metadata in exact order
 Optional fields (Creator, Extent, Provenance, Format, etc.) follow these six.
 
 Historical and editorial integrity
-- Distinguish genuine external source references from fictional reconstructions and transcriptions.
+- Centralize project disclosure in Technical Notes. Individual records use neutral archival descriptions; external sources retain accurate citations and links without genuine/authentic labels.
 - Preserve approved document wording and intentional uncertainty.
 - Never assert undocumented provenance or claim missing source scans are available.
-- Maintain accessible project disclosure via scope.htm -> technical_notes.htm.
+- Maintain accessible project disclosure via scope.htm -> technical_notes.htm. Only the Scope page footer links directly to Technical Notes.
 
 Publication checklist
 [ ] Draft and review content; verify dates, references, provenance and metadata order.
@@ -29,6 +29,7 @@ Publication checklist
 [ ] Check page styling, mobile display, and print behavior.
 [ ] Update record_index.htm and appropriate collection/county index only as needed.
 [ ] Obtain explicit user approval before publishing changes.
+[ ] Verify successful public deployment before declaring publication complete.
 
 Deployment note (2026-11-22)
 Earlier README_UPLOAD, README_V5_UPLOAD, README_DEPLOYMENT, README_PUBLICATION, README_REVIEW_FIRST, and PATCH_README files are historical package instructions, not current deployment directions. Do not reapply those ZIP packages wholesale. Use this standard and current GitHub files as the baseline.
